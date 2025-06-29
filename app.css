@@ -68,7 +68,7 @@ nav ul li a:hover {
 
 /* Images */
 img {
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
   display: block;
 }
@@ -84,7 +84,7 @@ footer {
 
 /* Utility */
 .text-center {
-  text-align: left;
+  text-align: center;
 }
 .mt-2 {
   margin-top: 2rem;
